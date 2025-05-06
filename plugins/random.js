@@ -8,7 +8,7 @@ module.exports = {
     aliases: ["rndm"],
     permission: 0,
     prefix: true,
-    categorie: "Entertainment",
+    categorie: "video",
     credit: "Developed by Mohammad Nayan",
     description: "Fetches a random video or a video based on a query.",
     usages: [
