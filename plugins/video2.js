@@ -7,7 +7,7 @@ module.exports = {
     prefix: true,
     credits: "Nayan",
     description: "Random video",
-    category: "user",
+    category: "video",
     usages: [".video2"],
     cooldowns: 5
   },
