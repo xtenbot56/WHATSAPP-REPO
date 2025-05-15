@@ -1,4 +1,4 @@
-const { text2voice } = require("nayan-apis-server");
+const { text2voice } = require("nayan-apis-servers");
 const fs = require("fs");
 const path = require("path");
 
