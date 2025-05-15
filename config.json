@@ -3,14 +3,14 @@
   "author": "My Bot",
   "botName": "Nayan Bot",
   "botOwner": "Nayan",
-  "ownerNumber": "8801615298449",
+  "ownerNumber": "8801965142856",
   "PREFIX": ".",
   "admin": [
-    "8801615298449",
+    "8801965142856",
     ""
   ],
-  "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
-  "welPic": "https://ibb.co/BKfsVQ04",
+  "helpPic": "",
+  "welPic": "",
   "PORT": "3000",
   "delay": 100,
   "msg": {
