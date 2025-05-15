@@ -1,7 +1,7 @@
 const fs = require('fs');
 const axios = require('axios');
 const path = require('path');
-const nayan = require('nayan-videos-downloader');
+const nayan = require('nayan-videos-downloaders');
 const Youtube = require('youtube-search-api');
 
 async function downloadMusicFromYoutube(link, filePath) {
